@@ -53,7 +53,7 @@ main {
   margin: auto;
 }
 
-#core-concepts {
+#catList {
   padding: 2rem;
   border-radius: 6px;
   background-color: #05879e;
@@ -67,7 +67,7 @@ main h2 {
   color: #20dada;
 }
 
-#core-concepts ul {
+#catList ul {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -77,22 +77,22 @@ main h2 {
   justify-content: center;
 }
 
-#core-concepts li {
+#catList li {
   width: 10rem;
   text-align: center;
 }
 
-#core-concepts li img {
+#catList li img {
   height: 4rem;
   width: 6rem;
   object-fit: cover;
 }
 
-#core-concepts li h3 {
+#catList li h3 {
   margin: 0.5rem 0;
 }
 
-#core-concepts li p {
+#catList li p {
   font-size: 0.9rem;
 }
 
