@@ -1,4 +1,4 @@
-import { CAT_HEADER_LIST } from "./data.jsx";
+import { CAT_HEADER_LIST } from "../data.jsx";
 import CatListItem from './CatListItem.jsx';
 
 export default function CatList() {

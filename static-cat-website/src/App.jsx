@@ -1,5 +1,5 @@
 import Header from "./components/Header";
-import CatList from "./components/CatListItem.jsx";
+import CatList from "./components/CatList.jsx";
 import Examples from "./components/Examples";
 
 
